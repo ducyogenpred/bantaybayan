@@ -28,7 +28,7 @@ function App() {
               >
                 circle
               </span>
-              <span className="text-sm font-medium">Moderate Risk</span>
+              <span className="text-sm font-medium">High Risk</span>
             </h2>
             <h2 className="mb-[8px] inline-flex items-center border-b-1 border-[#D4D4D4] px-[1rem] pb-[8px]">
               <span
@@ -40,7 +40,7 @@ function App() {
               >
                 circle
               </span>
-              <span className="text-sm font-medium">High Risk</span>
+              <span className="text-sm font-medium">Moderate Risk</span>
             </h2>
             <h2 className="inline-flex items-center px-[1rem] pb-[0.75rem]">
               <span
