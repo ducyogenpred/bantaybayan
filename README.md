@@ -5,8 +5,12 @@ Current Features:
 - Incident type icons
 - Data visualization with charts
 
+
 Tech Stack:
 - React + Vite + TypeScript
 - TailwindCSS
 - react-map-gl & MapLibre
 - Nivo
+
+
+Note: This is not responsive. It currently only works on desktop view.
